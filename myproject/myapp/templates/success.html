@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <h1>Success!</h1>
+    <p>Issue ID: {{ issue.issueID }}</p>
+    <p>User ID: {{ issue.userID }}</p>
+    <p>Location: {{ issue.location }}</p>
+    <p>Problem: {{ issue.problem }}</p>
+    <p>Time: {{ issue.time }}</p>
+    <p>Status: {{ issue.status }}</p>
+
+
+    <h2>Assigned Agent</h2>
+    <p>Agent ID: {{ agent.agentID }}</p>
+    <p>Queue: {{ agent.queue }}</p>
+
+    <h2>Assigned Mechanic</h2>
+    <p>Mechanic ID: {{ mechanic.mechanicID }}</p>
+    <p>Availability: {{ mechanic.availability }}</p>
+
+</body>
+</html>

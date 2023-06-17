@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>New Issue</title>
+</head>
+<body>
+    <form method="post" action="{% url 'new_issue' %}">
+        {% csrf_token %}
+        <label for="userID">User ID:</label>
+        <input type="text" name="userID" id="userID">
+        <br>
+        <label for="location">Location:</label>
+        <input type="text" name="location" id="location">
+        <br>
+        <label for="problem">Problem:</label>
+        <textarea name="problem" id="problem"></textarea>
+        <br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
