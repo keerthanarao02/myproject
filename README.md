@@ -21,11 +21,12 @@ queue.
 9. There are 10 mechanics available
 10. It is left to the candidate to decide on how the queue is handled and mechanics are assigned
 and create the algorithm accordingly
-![WhatsApp Image 2023-06-17 at 11 12 32 AM](https://github.com/keerthanarao02/myproject/assets/102549038/ca67accc-30e0-402b-9c60-1ba186638435)
 
 
 
+![WhatsApp Image 2023-06-17 at 11 45 36 AM](https://github.com/keerthanarao02/myproject/assets/102549038/003d400b-8263-4971-a5e6-818f8476f318)
 
 
-![WhatsApp Image 2023-06-17 at 11 14 37 AM](https://github.com/keerthanarao02/myproject/assets/102549038/56bec041-037f-4f23-9d29-a738bf642d78)
+![WhatsApp Image 2023-06-17 at 11 46 36 AM](https://github.com/keerthanarao02/myproject/assets/102549038/fedcc26d-a533-4a7d-85c1-be0569c34fc5)
+
 
