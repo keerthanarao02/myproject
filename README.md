@@ -1,4 +1,4 @@
-![WhatsApp Image 2023-06-17 at 11 14 37 AM](https://github.com/keerthanarao02/myproject/assets/102549038/af25bb2e-ceb0-4d99-8775-59336c79817b)# myproject
+# myproject
  backend developer for a company that solves vehicle problems on the go, anywhere and anytime. A team of 5 agents work towards receiving the request, talking to the customer facing the problem and assigning them an available mechanic.
  1. Create a new Django project named "myproject".
 2. Inside the project, create an app named "myapp".
