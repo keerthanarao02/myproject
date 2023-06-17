@@ -24,9 +24,6 @@ and create the algorithm accordingly
 
 
 
-![WhatsApp Image 2023-06-17 at 11 45 36 AM](https://github.com/keerthanarao02/myproject/assets/102549038/003d400b-8263-4971-a5e6-818f8476f318)
-
-
-![WhatsApp Image 2023-06-17 at 11 46 36 AM](https://github.com/keerthanarao02/myproject/assets/102549038/fedcc26d-a533-4a7d-85c1-be0569c34fc5)
-
+![WhatsApp Image 2023-06-17 at 10 56 01 PM](https:/![WhatsApp Image 2023-06-17 at 10 57 11 PM](https://github.com/keerthanarao02/myproject/assets/102549038/8827420e-716d-42f8-b4df-dd573eb4c063)
+/github.com/keerthanarao02/myproject/assets/102549038/fc35c60b-8937-49b8-b362-f5bbd29f93da)
 
