@@ -1,9 +1,19 @@
 <!DOCTYPE html>
 <html>
 <head>
+     <style>
+        .form-container {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+    </style>
     <title>New Issue</title>
 </head>
 <body>
+    <div class="form-container">
     <form method="post" action="{% url 'new_issue' %}">
         {% csrf_token %}
         <label for="userID">User ID:</label>
@@ -17,5 +27,6 @@
         <br>
         <input type="submit" value="Submit">
     </form>
+    </div>
 </body>
 </html>
