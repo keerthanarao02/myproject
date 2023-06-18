@@ -23,7 +23,7 @@ def new_issue(request):
             mechanics = Mechanic.objects.filter(availability=True)[:10]
             if mechanics:
                 mechanic = random.choice(mechanics)
-                mechanic.availability = False
+                mechanic.availability = True
                 mechanic.save()
                 issue.status = 'ASSIGNED'
                 issue.mechanic = mechanics  # Associate the assigned mechanic with the issue
